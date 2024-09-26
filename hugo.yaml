@@ -9,7 +9,7 @@ taxonomies:
 params:
   homeInfoParams:
     Title: Hello world, Eu sou o Pedro Vinícius! 👩🏻‍💻
-    Content: Bem vindos ao meu blog e portfólio, onde eu compartilho informações, projetos e estudos da minha jornada profissional e estudantil.
+    Content: Bem vindos ao meu blog/portfólio, onde eu compartilho informações, projetos e estudos da minha jornada profissional e estudantil.
   
   socialIcons:
   - name: github
