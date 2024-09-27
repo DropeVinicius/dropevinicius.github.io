@@ -1,5 +1,5 @@
 ---
-title: "👩🏻‍💻 Sobre mim"
+title: "👨🏻‍💻 Sobre mim"
 author: "[Pedro Vinícius]"
 date: 2024-09-15T17:36:07+12:00
 
