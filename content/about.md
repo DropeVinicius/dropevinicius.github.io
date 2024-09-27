@@ -54,4 +54,4 @@ Estou estudando Mobile (Kotlin) e também sobre os conceitos e práticas de star
 Sempre buscar aprender e crescer, estudando e praticando aquilo que realmente gosto e vejo propósito. Além de poder colaborar com outras pessoas e impactar positivamente quem interage com meu trabalho.
 
 ## Esse sou eu
-![alt text](https://ibb.co/hV9dLwy)
+![alt text](/static/myself.jpeg)
