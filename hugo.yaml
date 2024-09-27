@@ -1,4 +1,4 @@
-baseURL: https://DropeVinicius.github.io/
+baseURL: https://dropevinicius.github.io/
 languageCode: en-us
 title: "Pedro Vinícius"
 theme: ["hugo-PaperMod"]
@@ -26,6 +26,7 @@ params:
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/favicon-16x16.png"
+    myself: "/myself.jpeg"
 
   # for search
   # https://fusejs.io/api/options.html
