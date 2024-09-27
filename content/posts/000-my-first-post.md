@@ -1,5 +1,5 @@
 +++
-title = '🌱 Meu primeiro post'
+title = '👋🏻 Meu primeiro post'
 date = 2024-09-16T22:01:58-03:00
 draft = false
 
