@@ -22,9 +22,7 @@ ShowRssButtonInSectionTermList = true
 UseHugoToc = true
 +++
 
-## Introduction
-
-*Bem vindos*
+## Bem vindos
 
 Seja bem-vindo(a) ao meu portfólio! Aqui você encontrará uma seleção dos projetos que separei para apresentar a vocês, nos posts com links para facilitar a navegação e a visualização de cada um.
 
