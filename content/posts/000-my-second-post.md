@@ -21,7 +21,7 @@ ShowWordCount = true
 ShowRssButtonInSectionTermList = true
 UseHugoToc = true
 +++
-
+---
 ## Pixel Cursos
 
 Plataforma de treinamento de tecnologia gratuito para pessoas que buscam tirar certificações,
@@ -32,5 +32,6 @@ Projeto em andamento para a Enterprise Challenge da FIAP, curso de Sistemas para
 
 Links:
 
-Documentação
-Projeto deployado
+[Documentação](https://drive.google.com/file/d/1jnmi2QeVPbWpFQniTKhw8o6TOYZ-42Z8/view?usp=sharing)
+
+[Projeto deployado](https://pixel-cursos.vercel.app/)
