@@ -24,9 +24,7 @@ UseHugoToc = true
 ---
 ## Pixel Cursos
 
-Plataforma de treinamento de tecnologia gratuito para pessoas que buscam tirar certificações,
-permitir os usuários poderem escolher o curso de tecnologia que preferir e
-favoritar mediante escolha. 
+Plataforma de treinamento tecnológico gratuito, voltada para quem busca qualificação profissional e certificações. Os usuários podem selecionar os cursos de tecnologia de sua preferência e marcar como favoritos aqueles de maior interesse. 
 
 Projeto em andamento para a Enterprise Challenge da FIAP, curso de Sistemas para Internet.
 
