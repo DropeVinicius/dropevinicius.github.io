@@ -1,5 +1,5 @@
 +++
-title = 'Projeto - Portfólio'
+title = 'Projeto - Pixel Cursos'
 date = 2024-09-16T22:01:58-03:00
 draft = false
 
