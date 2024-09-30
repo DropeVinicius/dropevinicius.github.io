@@ -23,4 +23,11 @@ UseHugoToc = true
 +++
 
 ## Introduction
-* Conteúdo *
+
+*Bem vindos*
+
+Seja bem-vindo(a) ao meu portfólio! Aqui você encontrará uma seleção dos projetos que separei para apresentar a vocês, nos posts com links para facilitar a navegação e a visualização de cada um.
+
+Meu objetivo é proporcionar uma experiência agradável e intuitiva enquanto você explora. Fique à vontade para entrar em contato caso tenha dúvidas ou queira discutir algum projeto mais detalhadamente.
+
+Meus contatos estão todos atualizados e disponíveis. Agradeço sua visita!
