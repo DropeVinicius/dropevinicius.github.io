@@ -40,21 +40,21 @@ params:
 
 menu:
   main:
-    - identifier: sobre
-      name: sobre
-      url: /sobre/
+    - identifier: about
+      name: about
+      url: /about/
       weight: 10
-    - identifier: arquivo
-      name: arquivo
-      url: /arquivo/
+    - identifier: archive
+      name: archive
+      url: /archive/
       weight: 20
     - identifier: tags
       name: tags
       url: /tags/
       weight: 30
-    - identifier: procurar
-      name: procurar
-      url: /procurar/
+    - identifier: search
+      name: search
+      url: /search/
       weight: 40
 
 # For search: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#search-page
