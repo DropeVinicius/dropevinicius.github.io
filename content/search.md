@@ -1,6 +1,6 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # is necessary
-summary: "search"
+title: "Procurar" # in any language you want
+layout: "procurar" # is necessary
+summary: "procurar"
 placeholder: "O que você está procurando?"
 ---
