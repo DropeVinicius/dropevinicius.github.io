@@ -1,5 +1,5 @@
 +++
-title = '📲 Projeto - Pixel Cursos'
+title = '📲 Projeto - Enterprise Challenge'
 date = 2024-09-16T22:01:58-03:00
 draft = false
 
@@ -27,6 +27,9 @@ UseHugoToc = true
 Plataforma de treinamento tecnológico gratuito, voltada para quem busca qualificação profissional e certificações. Os usuários podem selecionar os cursos de tecnologia de sua preferência e marcar como favoritos aqueles de maior interesse. 
 
 Projeto em andamento para a Enterprise Challenge da FIAP, curso de Sistemas para Internet.
+
+ATUALIZAÇÃO: Conquistamos o primeiro lugar no evento NEXT da FIAP!
+[Post](https://www.linkedin.com/posts/pedro-dias-330961221_orgulho-em-compartilhar-que-eu-e-meu-grupo-activity-7257146524051132416-feXu?utm_source=share&utm_medium=member_desktop) 
 
 Links:
 
