@@ -32,4 +32,4 @@ Links:
 
 [Documentação](https://drive.google.com/file/d/1jnmi2QeVPbWpFQniTKhw8o6TOYZ-42Z8/view?usp=sharing)
 
-[Projeto deployado](https://pixel-cursos.vercel.app/)
+[Projeto deployado](https://pixelcursos.com.br/)
